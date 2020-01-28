@@ -49,9 +49,12 @@
    <poulist>
       <pou name="Main" sect="begin" lge="FBD"/>
       <pou name="test001" sect="begin" lge="ST"/>
+      <pou name="TEST09" sect="begin" lge="FBD"/>
       <pou name="pStartup" sect="end" lge="ST"/>
       <pou name="pShutDown" sect="end" lge="ST"/>
       <pou name="pOnDivZero" sect="end" lge="ST"/>
       <pou name="pOnBadIndex" sect="end" lge="ST"/>
+      <pou name="test004" sect="udfb" lge="ST"/>
+      <pou name="test10" sect="udfb" lge="SFC"/>
    </poulist>
 </K5project>

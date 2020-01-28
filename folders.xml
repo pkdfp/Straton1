@@ -13,6 +13,9 @@
       <File Name="Soft Scope.SS5"/>
    </Folder>
    <Program Name="test001"/>
+   <Program Name="test004"/>
+   <Program Name="TEST09"/>
+   <Program Name="test10"/>
    <File Name="Initial values.RCP"/>
    <Binding/>
    <GlobalDef/>
