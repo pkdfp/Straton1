@@ -3,6 +3,9 @@
    <programs>
       <pou name="test004" kind="UDFB" lge="ST">
          <vargroup name="test004" kind="LOCAL">
+            <var name="NewVar" type="BOOL"/>
+            <var name="NewVar2" type="BOOL"/>
+            <var name="NewVar3" type="BOOL"/>
          </vargroup>
 <defines name="test004"></defines>
          <sourceSTIL>
