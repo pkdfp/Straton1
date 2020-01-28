@@ -55,5 +55,6 @@
       <pou name="test001" sect="end" lge="ST"/>
       <pou name="TEST09" sect="end" lge="FBD"/>
       <pou name="test004" sect="udfb" lge="ST"/>
+      <pou name="test10" sect="udfb" lge="SFC"/>
    </poulist>
 </K5project>
