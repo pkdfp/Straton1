@@ -12,6 +12,8 @@
    </Folder>
    <Program Name="Main"/>
    <Program Name="test001"/>
+   <Program Name="test004"/>
+   <Program Name="TEST09"/>
    <File Name="Initial values.RCP"/>
    <Binding/>
    <GlobalDef/>

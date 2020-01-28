@@ -53,5 +53,7 @@
       <pou name="pOnDivZero" sect="end" lge="ST"/>
       <pou name="pOnBadIndex" sect="end" lge="ST"/>
       <pou name="test001" sect="end" lge="ST"/>
+      <pou name="TEST09" sect="end" lge="FBD"/>
+      <pou name="test004" sect="udfb" lge="ST"/>
    </poulist>
 </K5project>
