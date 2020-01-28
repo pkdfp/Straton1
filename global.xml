@@ -3,6 +3,8 @@
    <variables>
       <vargroup name="(Global)" kind="GLOBAL">
          <var name="Var000" type="BOOL" dim="10"/>
+         <var name="NewVar" type="BOOL"/>
+         <var name="NewVar1" type="DWORD"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
